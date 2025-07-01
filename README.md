@@ -10,7 +10,7 @@ I'm an engineer-turned-analyst passionate about data, dashboards, and storytelli
 ## 🌐 Socials  
 <a href="https://www.linkedin.com/in/lakshmi-mounika-mereti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>a/
+</a>
 
 ---
 

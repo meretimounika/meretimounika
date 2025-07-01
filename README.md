@@ -10,13 +10,13 @@ I'm an engineer-turned-analyst passionate about data, dashboards, and storytelli
 ## 🌐 Socials  
 <a href="https://www.linkedin.com/in/lakshmi-mounika-mereti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+</a>a/
 
 ---
 
+## 🛠️ Tools & Skills  
 
 
-<h2>🛠️ Tools & Skills</h2>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />

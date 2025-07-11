@@ -1,6 +1,6 @@
 # 👋 Lakshmi Mounika Mereti
 ***
-🎓 PGDM in Business Analytics & Finance | 💼 Ex-TCS | 📊 Data & Business Analytics Enthusiast
+🎓 PGDM(MBA) in Business Analytics & Finance | 💼 Ex-TCS | 📊 Data & Business Analytics Enthusiast
 
 
 Welcome to my github,
